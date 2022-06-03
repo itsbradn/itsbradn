@@ -1,11 +1,10 @@
-### Hi there! :smile:
+### Hey there!
 
-I make random projects for fun and showcase them on here.<br />
-My current focus is my website [bradn.dev](https://bradn.dev/) and expanding my knowledge on web development, I've been focusing on VueJS and ExpressJS.
+I'm a web developer & software engineer developing projects in my free time and publishing them on GitHub! :)
 ___
 
 #### What I'm currently working on:
-* [bradn.dev](https://bradn.dev/) - Various tools and software combined into one panel.
+* [stats.bradn.dev](https://stats.bradn.dev/) - Game statisitc lookup and profiles.
 
 #### Languages 
 * Javascript (:star::star::star::star::star:)
