@@ -1,23 +1,15 @@
-### Hey there!
+###  Hey there! 👋 
 
-I'm a web developer & software engineer developing projects in my free time and publishing them on GitHub! :)
+My name is braden and I'm a self-taught full stack developer.
+I'm passionate about turning peoples ideas into real world products. 
 ___
 
 #### What I'm currently working on:
-* [stats.bradn.dev](https://stats.bradn.dev/) - Game statisitc lookup and profiles.
+* [proton-cloud.com](https://proton-cloud.com/) - Game statisitc lookup and profiles.
 
-#### Languages 
-* Javascript (:star::star::star::star::star:)
-* HTML & CSS (:star::star::star::star::star:)
-* VueJS (:star::star::star::star:)
-* Python (:star::star:)
-* Java (:star::star::star:)
-
-#### Currently Learning
-* C (:star:)
-* C++ (:star:)
+#### How I do it
+I use the latest technologies to build fast and light applications & websites so that customers get the best experience possible. Recently I've been heavily utilizing AstroJS for quick and high perfomant web apps along with rust for the backend.
 
 #### Contact me
 My only discord contact is `braden#6668` with the user ID `263789620007927813`, if it changes it will be updated here. Don't fall for someone impersonating me:)
 
-*# of stars = level of experience I have (Max 5)*
