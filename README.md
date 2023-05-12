@@ -9,7 +9,7 @@ ___
 
 #### How I do it
 I use the latest technologies to build fast and light applications & websites so that customers get the best experience possible. Recently I've been heavily utilizing AstroJS for quick and high perfomant web apps along with rust for the backend.
-
+___
 ### Contact me
 Email: imbradn@protonmail.com
 
