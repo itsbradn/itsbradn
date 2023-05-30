@@ -5,7 +5,7 @@ I'm passionate about turning peoples ideas into real world products.
 ___
 
 #### What I'm currently working on:
-* [proton-cloud.com](https://proton-cloud.com/) - Game statisitc lookup and profiles.
+* [proton-cloud.com](https://proton-cloud.com/) - Hosting provider
 * [bradn.dev](https://www.bradn.dev/) - Personal website portfolio along with business tools & more.
 
 #### How I do it
