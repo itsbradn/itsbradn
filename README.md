@@ -1,6 +1,6 @@
 ###  Hey there! 👋 
 
-My name is braden and I'm a self-taught full stack developer.
+My name is braden.
 I'm passionate about turning peoples ideas into real world products. 
 ___
 
